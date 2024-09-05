@@ -1,0 +1,14 @@
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\bin\Debug\net7.0\ParkingSystem.exe
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\bin\Debug\net7.0\ParkingSystem.deps.json
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\bin\Debug\net7.0\ParkingSystem.runtimeconfig.json
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\bin\Debug\net7.0\ParkingSystem.dll
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\bin\Debug\net7.0\ParkingSystem.pdb
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ParkingSystem.AssemblyInfoInputs.cache
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ParkingSystem.AssemblyInfo.cs
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ParkingSystem.dll
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\refint\ParkingSystem.dll
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ParkingSystem.pdb
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ParkingSystem.genruntimeconfig.cache
+C:\Nova pasta\Desafios DIO\.NET\ParkingSystem\obj\Debug\net7.0\ref\ParkingSystem.dll
